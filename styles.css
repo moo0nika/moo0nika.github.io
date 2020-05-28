@@ -1,0 +1,65 @@
+body {
+  background-color:#D3D3D3;
+}
+
+.navbar-brand {
+   width: 170px;
+    left: 50px;
+}
+
+vigation-bar ul {
+  padding: 0px;
+  margin: 0px;
+  text-align: center;
+  display:inline-block;
+  vertical-align:top;
+}
+
+.carousel {
+       margin-top: 10px;
+}
+.carousel-item img {
+       width: 60%;
+       margin-left: 10%;
+       margin-right: 10%;
+}
+.carousel-control-next-icon,
+.carousel-control-prev-icon  {
+       filter:invert(100%) ;
+}
+.row {
+       margin-top: 10px;
+}
+.content-box {
+       margin: 5px;
+       border-style:solid ;
+       border-color:#000000 ;
+       border-width: 1px;
+       background-color: #A9A9A9 ;
+ }
+.content-box img {
+       width: 45%;
+       margin-left: 10%;
+       margin-right: 10%;
+       
+}
+
+.content-box p {   
+       text-align : center 
+} 
+.container h1 {  
+         text-align:center;
+}
+         
+footer {   
+      margin-top:10px;
+      background-color: #696969;
+      color: white;
+      text-align:center;
+      
+}
+
+
+
+
+
